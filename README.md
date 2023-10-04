@@ -1,6 +1,6 @@
 # upload_app
 
-A new Flutter application.
+Flutter demo for upload of images using https://upload.uploadcare.com API,and image_picker and cached_network_image packages.
 
 ## Getting Started
 
